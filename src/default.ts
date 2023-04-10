@@ -1,7 +1,7 @@
 export const defaultSetting = {
   continuousDialogue: true,
   archiveSession: false,
-  openaiAPIKey: "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",
+  openaiAPIKey: "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",
   openaiAPITemperature: 60,
   systemRule: ""
 }
